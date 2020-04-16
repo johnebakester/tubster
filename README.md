@@ -1,5 +1,8 @@
 # Installation
-`pip install -r requirements.txt`
+```
+git clone https://github.com/johnebakester/tubster.git
+pip install -r requirements.txt
+```
 
 # Usage
 #### help
@@ -12,5 +15,5 @@
 `python tubster.py --host catbox /path/to/music/files`
 
 # Disclaimer
-Currently supports catbox.moe and pixeldrain.com
+Currently supports catbox.moe and pixeldrain.com   
 catbox.moe seems flaky, so pixeldrain is the default filehost
