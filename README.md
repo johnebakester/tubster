@@ -1,6 +1,7 @@
 # Installation
 ```
 git clone https://github.com/johnebakester/tubster.git
+cd tubster
 pip install -r requirements.txt
 ```
 
