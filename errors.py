@@ -1,0 +1,2 @@
+class PathIsNotValidError(Exception):
+    pass
